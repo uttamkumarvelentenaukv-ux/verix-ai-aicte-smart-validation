@@ -1,0 +1,6 @@
+{
+  "name": "VERIX AI — AICTE Smart Validation",
+  "description": "AI-Powered preliminary document validation and regulatory decision-support platform for All India Council for Technical Education (AICTE) institutional applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
